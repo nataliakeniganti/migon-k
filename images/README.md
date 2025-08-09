@@ -1,1 +1,2 @@
-# Emoji images[image](images/JoyPixels/1f602.png)
+# Emoji images![image](JoyPixels/1f600.png)![image](JoyPixels/1f5bc.png)
+[JoyPixels](JoyPixels)
