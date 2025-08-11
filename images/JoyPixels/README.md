@@ -1,6 +1,8 @@
 # My Emojis
 ## Emoji 17.0
 ![🛘](1f6d8.png)
+![🪊](1fa8a.png)
+![🪎](1fa8e.png)
 ![🫪](1faea.png)
 ![🫯](1faef.png)
 ## Emoji 16.0
